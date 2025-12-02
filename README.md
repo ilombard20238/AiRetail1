@@ -90,3 +90,6 @@ https://ilombard20238.github.io/websiteRetailAi/
 
 ## Poster 
 https://docs.google.com/presentation/d/1ISCFmlA34qTpxsUmHuxP66P64vRglfmGC90VPO5VWE4/edit?slide=id.p#slide=id.p
+
+## Presentation
+https://docs.google.com/presentation/d/1kvfJJDfnjel5MbN9sa4hcX7clUvzeDC6C_E1sUkFNkE/edit?slide=id.p1#slide=id.p1
