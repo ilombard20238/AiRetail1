@@ -93,3 +93,6 @@ https://docs.google.com/presentation/d/1ISCFmlA34qTpxsUmHuxP66P64vRglfmGC90VPO5V
 
 ## Presentation
 https://docs.google.com/presentation/d/1kvfJJDfnjel5MbN9sa4hcX7clUvzeDC6C_E1sUkFNkE/edit?slide=id.p1#slide=id.p1
+
+## Google Colab
+https://colab.research.google.com/github/ilombard20238/AiRetail1/blob/main/AiRetail1.ipynb
